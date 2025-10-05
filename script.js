@@ -9,6 +9,8 @@ let currentTime = 30
 let timerId = null
 let countDownTimerId = null
 
+
+// mole goes on any square
 function randomSquare() {
     squares.forEach(square => {
         square.classList.remove('mole')
@@ -34,7 +36,7 @@ function moveMole() {
     timerId = setInterval(randomSquare, 700)
 }
 
-//start game
+// start game
 function startGame() {
     result = 0
     score.textContent = result
@@ -47,6 +49,7 @@ function startGame() {
         countDownTimerId = setInterval(countDown, 1000)
 }
 
+// timer
 function countDown() {
     currentTime--
     timeLeft.textContent = currentTime
