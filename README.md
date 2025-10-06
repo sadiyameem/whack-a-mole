@@ -2,6 +2,7 @@
 
 # Description
 A fun browser based game where you click a mole as it pops up in random squares and try to score as many points as you can before time runs out. I built this with HTML, CSS, and JavaScript.
+I made this with the help of a video. The things I added myself where CSS colors and game buttons.
 
 # Features
 - Score counter
