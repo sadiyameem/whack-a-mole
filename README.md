@@ -22,7 +22,7 @@ Some challenges I had were finding the right image and colors.
 Somthing I learned was to make the grid and image appear.
 
 # Credits
-Goes to this video that help me make all of this happen
-Link:https://www.youtube.com/watch?v=rJU3tHLgb_c
+Goes to this video
+Link: https://www.youtube.com/watch?v=rJU3tHLgb_c
 
 Created by Sadiya
