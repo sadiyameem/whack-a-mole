@@ -1,4 +1,4 @@
-# whack-a-mole
+# Whack-A-Mole
 
 # Description
 A fun browser based game where you click a mole as it pops up in random squares and try to score as many points as you can before time runs out. I built this with HTML, CSS, and JavaScript.
